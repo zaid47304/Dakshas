@@ -1,0 +1,28 @@
+.Labels {
+  font-size: 12px;
+  width: 80%;
+  border-radius: 5px;
+}
+.PersonalForm {
+  width: 50%;
+  height: 68vh;
+  border-radius: 5px;
+  color: black;
+}
+.ReturnButton {
+  margin-right: 10px;
+  font-size: 12px;
+  font-weight: bolder;
+  padding: 1%;
+  width: 30%;
+}
+.NextButton {
+  font-size: 12px;
+  font-weight: bolder;
+  padding: 1%;
+  width: 30%;
+  margin-right: 35px;
+}
+.Inputs {
+  color: black;
+}

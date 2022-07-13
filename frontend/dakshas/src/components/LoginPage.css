@@ -1,0 +1,101 @@
+.login {
+    width: 100vw !important;
+    height: 100vh !important;
+    background-size: cover;
+    background: white;
+    
+    margin: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+  
+  
+  .login-form{
+    /* margin-top: 20px; */
+    background: #F1F1F5;
+    position: relative;
+    top:5%;
+    left: 30%;
+    margin: 5px;
+    box-shadow: 0 8px 8px -2px;
+    backdrop-filter: blur(5px);
+    width: 40% !important;
+    height: auto;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: left ;
+  }
+  
+  .title-container {
+    width:100%;
+    align-content: center;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100%;
+    background: rgb(16, 41, 144);
+    color: white;
+  }
+  
+  .leftcolumn {
+    height: 100%;
+    width: 100%;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    ;
+  }
+  .rightcolumn {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+  }
+  
+  .center {
+  height: 100%;
+  /* text-align: center; */
+  }
+  
+  /* .leftcolumn >  {
+    position: relative;
+    top: 50%;
+  }
+  .rightcolumn > div {
+    position: relative;
+    top: 50%;
+  } */
+  
+  .login-title-para {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    display: block;
+  }
+  
+  .login-title-org {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    display: block;
+  }
+  
+  .login-para {
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  
+  .login-org {
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  
+  .btnO, .btnP {
+    width: fit-content;
+  }
